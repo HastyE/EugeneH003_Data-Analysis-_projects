@@ -11,14 +11,7 @@ Data Analyst based in Machakos, Kenya, with hands-on expertise in Python, SQL an
 
 🛠️ Technical Skills
 
-Category, Skills & Languages 
-Python
-SQL
-Libraries: pandas, NumPy, matplotlib, seaborn, scipyBI Tools
-Power BI: (DAX, Power Query, Data Modeling)
-Databases: MySQL
-Google BigQuery
-Tools: Jupyter Notebook, MySQL Workbench, Git, GitHub
+Category, Skills & Languages: Python,SQL ;Libraries: pandas, NumPy, matplotlib, seaborn, scipyBI:  Tools Power BI: (DAX, Power Query, Data Modeling): Databases: MySQL: Google BigQuery : Tools: Jupyter Notebook, MySQL Workbench, Git, GitHub; 
 Statistics: Hypothesis Testing, T-Tests, Chi-Square, Confidence Intervals
 
 
