@@ -19,7 +19,7 @@ Power BI: (DAX, Power Query, Data Modeling)
 Databases: MySQL
 Google BigQuery
 Tools: Jupyter Notebook, MySQL Workbench, Git, GitHub
-StatisticS:Hypothesis Testing, T-Tests, Chi-Square, Confidence Intervals
+Statistics: Hypothesis Testing, T-Tests, Chi-Square, Confidence Intervals
 
 
 📊 Projects
@@ -93,11 +93,11 @@ Passenger class strongly correlates with survival rate
 
 🏆 Certifications
 
-CertificationIssuerYearCareer Boost — Power BI & AI (8-hr, MCT-led)
-Exodus Experts2026
-AWS AI & ML ScholarsUdacity + AWS2026Analyze Data Using AI with PartyRockUdacity 
-AWS2026Data FundamentalsIBM SkillsBuild2026
-Python Programming FundamentalsTech Savvy Institute2026
+Certification,Issuer &Year 
+Career Boost — Power BI & AI (8-hr, MCT-led) Exodus Experts2026
+AWS AI & ML ScholarsUdacity + AWS 2026: Analyze Data Using AI with PartyRockUdacity 
+AWS2026Data FundamentalsIBM Skills Build 2026:Loaded, cleaned, analyzed & visualized data using IBM studio to get insights on multiple datasets
+Python Programming Fundamentals: Tech Savvy Institute2026
 
 
 📈 Currently Pursuing
